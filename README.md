@@ -1,2 +1,2 @@
 # Python
- Python via curso em vídeo
+ Python via curso em vídeo!
