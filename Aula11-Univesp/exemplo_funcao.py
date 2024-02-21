@@ -7,5 +7,6 @@ print(f(10))
 def juros(preco, juros):
     res = preco * (1 + (juros/100))
     return res
+    print("esses São os Juros!")
 
 print (juros(10,50)*2)
